@@ -24,6 +24,12 @@ def square(x):
     """
     return x * x
 
+
+def minusOne(x):
+    """
+    x = int or floating point digit
+    """
+    return x - 1
 #=================Implementation===============
 
 if __name__ == "__main__":
