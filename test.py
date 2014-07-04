@@ -24,12 +24,21 @@ def square(x):
     """
     return x * x
 
+def addOne(x)
+    """
 
-def minusOne(x):
     """
-    x = int or floating point digit
+
+def multiplyTwo(x):
     """
-    return x - 1
+
+    """
+
+def mod4(x):
+    """
+
+    """
+
 #=================Implementation===============
 
 if __name__ == "__main__":
