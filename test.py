@@ -31,9 +31,11 @@ def addOne(x)
     return x+1
 def multiplyTwo(x):
     """
-    This function adds x to itself.
+    This function takes an input x and
+    multiplies it by 2.
     """
-    return x+x
+    return x * 2
+
 def mod4(x):
     """
 
