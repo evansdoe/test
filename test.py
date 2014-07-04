@@ -26,9 +26,9 @@ def square(x):
 
 def addOne(x)
     """
-
+    This function adds one to x    
     """
-
+    return x+1
 def multiplyTwo(x):
     """
 
