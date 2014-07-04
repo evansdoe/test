@@ -31,9 +31,9 @@ def addOne(x)
     return x+1
 def multiplyTwo(x):
     """
-
+    This function adds x to itself.
     """
-
+    return x+x
 def mod4(x):
     """
 
